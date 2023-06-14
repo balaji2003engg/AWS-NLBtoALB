@@ -10,4 +10,7 @@ Solution:
 
 EC2---------------> ALB <------------------------  NLB ( Public)
     Private                   Priavte
+    
+    
+#Reference Link
 https://aws.amazon.com/blogs/networking-and-content-delivery/application-load-balancer-type-target-group-for-network-load-balancer/
