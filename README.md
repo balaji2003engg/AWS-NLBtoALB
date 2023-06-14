@@ -1,6 +1,5 @@
-# AWS-NLBtoALB
+# Hosted application on  EC2  servers and ALB is configured as  internal(private) but needs to access the hosted application to access to the public without modifying the exisitng one.
 
-Problem : Hosted application on  EC2  servers and ALB is configured as  internal(private) but needs to access the hosted application to access to the public without modifying the exisitng one.
 
 Solution:
 
